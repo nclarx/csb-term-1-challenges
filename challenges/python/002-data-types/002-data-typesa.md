@@ -6,8 +6,7 @@ Complete the following challenges relating to boolean data types.
 
 > The `==` is a comparison operator that can be used to compare two values to see whether they are the same or not. If the values are the same, the expression will return `True` if the values are different it will return `False`.
 
-See the documentation on `==`:
-See the documentation on `Bool`:
+See the documentation on comparisons: https://docs.python.org/3/library/stdtypes.html#comparisons
 
 **Instructions**
 
