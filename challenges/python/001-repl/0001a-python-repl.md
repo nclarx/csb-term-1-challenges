@@ -71,7 +71,7 @@ Record the output you expect, and the actual output.
 
 ## 1.4.5 Underscore in REPL
 
-When you use the underscore `\_` character in the Python REPL it signifies the last value handled by the interpreter.
+When you use the underscore `_` character in the Python REPL it signifies the last value handled by the interpreter.
 
 What happens when you:
 
