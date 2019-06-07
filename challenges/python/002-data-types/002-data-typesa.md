@@ -9,16 +9,9 @@ Complete the following challenges relating to boolean data types.
 See the documentation on `==`:
 See the documentation on `Bool`:
 
-**Instructions:**
+**Instructions**
 
-**PLEASE READ ALL INSTRUCTIONS BEFORE STARTING THIS CHALLENGE**
-
-1. Note the answer you expect for each challenge.
-2. Create a Python script file named `002-Data-Types.py`.
-3. Use comments to label each challenge with its *No.*.
-4. Print the result of each expression with a `print()` statement.
-5. Do not run your script until you have completed Instructions 1-4.
-6. Check the results of your script against the expected value.
+Test the following in the Python REPL, note your expected answer and then the answer provided by the REPL.
 
 | No.        | Challenges                                                                       | Expected      | Answer      | What?            |
 | ---------- | -------------------------------------------------------------------------------- | ------------- | ----------- | -----------      | 
@@ -39,10 +32,6 @@ See the documentation on `Bool`:
 | **2.1.15** | Test `''` and False for equality.                                                |               |             |                  |
 
 See [this StackOverflow answer](https://stackoverflow.com/questions/38972645/python-comparing-empty-string-to-false-is-false-why) for more about **2.1.15**.
-
-## 2.2 String
-
-Strings in Python are considered to be a list of characters.
 
 
 
